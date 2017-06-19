@@ -1,0 +1,7 @@
+package org.wanjiku.letsPlay.persistence;
+
+public class UserAccount {
+	private UserAddress userAddress;
+	private UserDetails userDetails;
+
+}

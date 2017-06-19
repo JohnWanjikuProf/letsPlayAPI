@@ -1,0 +1,37 @@
+package org.wanjiku.letsPlay.persistence;
+
+import javax.persistence.Embeddable;
+
+@Embeddable
+public class UserDetails {
+	private String firstNames;
+	private String sirName;
+	private String gender;
+	private int age;
+	public String getFirstNames() {
+		return firstNames;
+	}
+	public void setFirstNames(String firstNames) {
+		this.firstNames = firstNames;
+	}
+	public String getSirName() {
+		return sirName;
+	}
+	public void setSirName(String sirName) {
+		this.sirName = sirName;
+	}
+	public String getGender() {
+		return gender;
+	}
+	public void setGender(String gender) {
+		this.gender = gender;
+	}
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	
+	
+}

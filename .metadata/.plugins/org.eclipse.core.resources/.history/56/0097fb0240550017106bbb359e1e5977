@@ -1,0 +1,25 @@
+package org.wanjiku.letsPlay.persistence;
+import javax.persistence.Embedded;
+import javax.persistence.Entity;
+
+@Entity
+public class UserAccount {
+	@Embedded
+	private UserAddress userAddress;
+	@Embedded
+	private UserDetails userDetails;
+	public UserAddress getUserAddress() {
+		return userAddress;
+	}
+	public void setUserAddress(UserAddress userAddress) {
+		this.userAddress = userAddress;
+	}
+	public UserDetails getUserDetails() {
+		return userDetails;
+	}
+	public void setUserDetails(UserDetails userDetails) {
+		this.userDetails = userDetails;
+	}
+	
+
+}

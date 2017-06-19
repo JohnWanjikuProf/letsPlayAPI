@@ -1,0 +1,43 @@
+!SESSION 2017-06-19 18:33:25.966 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2017-06-19 22:29:39.064
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-06-19 22:29:39.273
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-06-19 22:43:37.448
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-06-19 22:43:37.449
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-06-19 22:43:38.273
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-06-19 22:43:38.276
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.ui.navigator 4 0 2017-06-19 23:51:35.622
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/main/resources [in letsPlay]".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2017-06-19 23:51:36.405
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/main/resources [in letsPlay]".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2017-06-19 23:51:37.800
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/main/resources [in letsPlay]".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2017-06-19 23:53:31.807
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/main/resources [in letsPlay]".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2017-06-19 23:53:32.069
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/main/resources [in letsPlay]".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
+
+!ENTRY org.eclipse.ui.navigator 4 0 2017-06-19 23:53:32.093
+!MESSAGE Cannot find navigator content extension (using triggerPoints) for object "<null>" parent path: "src/main/resources [in letsPlay]".  Check that you have an expression for this object in a navigatorContent triggerPoints or enablement.
