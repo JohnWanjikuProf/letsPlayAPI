@@ -10,3 +10,13 @@
 1497914699637	Rename field 'firstNames'
 1498006157840	Delete element
 1498088338120	Delete element
+1498090896416	Copy compilation units
+1498090927244	Delete elements
+1498091574387	Copy file
+1498091867662	Rename field 'factory'
+1498094857960	Rename local variable 'contactRoot'
+1498096359451	Rename method 'getCriteriaQuery'
+1498096387271	Rename local variable 'criteriaQuery'
+1498098235893	Rename compilation unit 'UserAccount.java'
+1498098417372	Rename type 'UserAccountService'
+1498098446953	Rename type 'UserAccount'

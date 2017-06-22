@@ -1,0 +1,57 @@
+package org.wanjiku.letsPlay.persistence;
+
+import javax.persistence.Embeddable;
+
+@Embeddable
+public class UserAddress {
+	private String street;
+	private String location;
+	private String ZIPcode;
+	private String City;
+	private String Country;
+	private String email;
+	private String mobileNumber;
+	public String getStreet() {
+		return street;
+	}
+	public void setStreet(String street) {
+		this.street = street;
+	}
+	public String getLocation() {
+		return location;
+	}
+	public void setLocation(String location) {
+		this.location = location;
+	}
+	public String getZIPcode() {
+		return ZIPcode;
+	}
+	public void setZIPcode(String zIPcode) {
+		ZIPcode = zIPcode;
+	}
+	public String getCity() {
+		return City;
+	}
+	public void setCity(String city) {
+		City = city;
+	}
+	public String getCountry() {
+		return Country;
+	}
+	public void setCountry(String country) {
+		Country = country;
+	}
+	public String getEmail() {
+		return email;
+	}
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	public String getMobileNumber() {
+		return mobileNumber;
+	}
+	public void setMobileNumber(String mobileNumber) {
+		this.mobileNumber = mobileNumber;
+	}
+	
+}

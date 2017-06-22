@@ -1,0 +1,38 @@
+package org.wanjiku.letsPlay.services;
+
+import java.util.List;
+
+import javax.persistence.criteria.CriteriaBuilder;
+import javax.persistence.criteria.CriteriaQuery;
+import javax.persistence.criteria.Root;
+
+import org.wanjiku.letsPlay.persistence.HibernateUtility;
+
+public class UserAccount {
+	public UserAccount(){
+		
+	}
+	private  CriteriaQuery<UserAccount> getCriteriaQuery (){
+		//Get Criteria Builder
+        CriteriaBuilder builder = HibernateUtility.getSession().getCriteriaBuilder();
+      //Create Criteria
+        CriteriaQuery<UserAccount> criteriaQuery = builder.createQuery(UserAccount.class);
+        return criteriaQuery;
+	}
+	public List<UserAccount> getAllUsers(){
+		 
+		/* Root<UserAccount> userAccountRoot = getCriteriaQuery().from(UserAccount.class);
+	     getCriteriaQuery().select(userAccountRoot);*/
+	     
+		 getCriteriaQuery().from(UserAccount.class);
+	   //Use criteria to query with session to fetch all users
+	     List<UserAccount> userAccounts = HibernateUtility.getSession().createQuery(getCriteriaQuery()).getResultList();
+
+	        //Close session
+	     HibernateUtility.getSession().close();
+        
+		return userAccounts;
+	}
+	
+
+}

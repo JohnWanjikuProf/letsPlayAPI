@@ -1,0 +1,19 @@
+package org.wanjiku.letsPlay.persistence;
+
+import org.hibernate.SessionFactory;
+
+public class HibernateUtility {
+	
+	public static SessionFactory factory;
+	private HibernateUtility(){
+	}
+	public static synchronized SessionFactory factory(){
+		if(factory == null){
+			factory = new Configuration().configure
+		}
+			
+		}
+		
+	}
+	
+

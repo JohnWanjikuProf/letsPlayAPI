@@ -239,3 +239,119 @@
 2017-06-22 00:44:21,282 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
 2017-06-22 00:44:21,296 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-06-22 00:44:21,301 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 01:21:02,181 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:21:02,192 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 01:21:02,216 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:21:02,216 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 01:21:37,580 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:21:37,594 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 01:21:37,605 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:21:37,606 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 01:22:08,554 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:22:08,559 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 01:22:08,599 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:22:08,600 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 01:22:42,481 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:22:42,482 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 01:22:42,500 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:22:42,500 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 01:24:22,887 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:24:22,890 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 01:24:22,924 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:24:22,925 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 01:26:31,095 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:26:31,096 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 01:26:31,113 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:26:31,114 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 01:32:55,186 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:32:55,190 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 01:32:55,212 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:32:55,212 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 01:35:02,750 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:35:02,760 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 01:35:02,772 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:35:02,773 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 01:37:48,196 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:37:48,197 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 01:37:48,207 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:37:48,207 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 01:47:46,753 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:47:46,767 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 01:47:46,785 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 01:47:46,798 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 02:02:05,885 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:02:05,886 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 02:02:05,922 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:02:05,923 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 02:32:03,923 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:32:03,924 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 02:32:03,933 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:32:03,955 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 02:36:43,190 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:36:43,194 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 02:36:43,220 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:36:43,220 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 02:39:51,231 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:39:51,232 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 02:39:51,270 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:39:51,274 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 02:47:41,961 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:47:41,962 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 02:47:41,971 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:47:41,972 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 02:52:14,469 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:52:14,470 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 02:52:14,480 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:52:14,485 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 02:52:40,416 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:52:40,417 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 02:52:40,430 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:52:40,439 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 02:53:08,542 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:53:08,543 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 02:53:08,549 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:53:08,551 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 02:54:43,124 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:54:43,125 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 02:54:43,146 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 02:54:43,148 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 03:16:50,670 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:16:50,671 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 03:16:50,687 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:16:50,688 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 03:21:18,533 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:21:18,536 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 03:21:18,553 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:21:18,562 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 03:22:17,678 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:22:17,680 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 03:22:17,693 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:22:17,693 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 03:23:57,639 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:23:57,640 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 03:23:57,656 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:23:57,656 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 03:26:00,237 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:26:00,240 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 03:26:00,262 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:26:00,263 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 03:26:59,163 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:26:59,166 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 03:26:59,177 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:26:59,178 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 03:27:28,997 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:27:29,022 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 03:27:29,054 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:27:29,063 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 03:27:46,019 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:27:46,024 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 03:27:46,037 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:27:46,039 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 03:28:05,534 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:28:05,595 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 03:28:05,600 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:28:05,601 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources
+2017-06-22 03:29:03,611 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:29:03,615 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/main/resources
+2017-06-22 03:29:03,632 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-22 03:29:03,633 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/john/javaDevEnv/letPlayAPI/letsPlay/src/test/resources

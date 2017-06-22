@@ -1,0 +1,12 @@
+package org.wanjiku.letsPlay.services;
+
+import java.util.List;
+
+public class UserAccount {
+
+	public List<UserAccount> getAllUsers(){
+		return null;
+	}
+	
+
+}

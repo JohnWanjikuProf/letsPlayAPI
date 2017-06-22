@@ -1,0 +1,20 @@
+package org.wanjiku.letsPlay.services;
+
+import java.util.List;
+
+import org.hibernate.Criteria;
+import org.wanjiku.letsPlay.persistence.HibernateUtility;
+import org.wanjikus.hibernateTut.UserDetails;
+
+public class UserAccount {
+	public UserAccount(){
+		
+	}
+	public List<UserAccount> getAllUsers(){
+		Criteria criteria =HibernateUtility.getSession().createCriteria(UserAccount.class);
+		List<UserAccount> users =(List<UserAccount>) criteria.list();
+		return users;
+	}
+	
+
+}
